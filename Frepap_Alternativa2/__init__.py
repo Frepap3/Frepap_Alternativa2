@@ -1,4 +1,4 @@
 
 import random
-import funca
+from Frepap_Altenativa2 import funca
 from funca import *
